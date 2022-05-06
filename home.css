@@ -63,3 +63,7 @@ body {
     border-bottom: 4px solid #d00d56;
     color: #fff;
 }
+
+script {
+    color: white;
+}
